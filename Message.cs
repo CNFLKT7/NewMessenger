@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace NewMessenger
 {
     [Serializable]
-    class Message
+    public class Message
     {
         public string UserName { get; set; }
         public string MessageText { get; set; }
