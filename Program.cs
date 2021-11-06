@@ -6,7 +6,8 @@ namespace NewMessenger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Начало проекта!");
+            Message msg = new Message();
+            Console.WriteLine(msg.ToString());
         }
     }
 }
