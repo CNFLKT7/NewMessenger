@@ -6,7 +6,7 @@ namespace NewMessenger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Начало проекта!");
         }
     }
 }
